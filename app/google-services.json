@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280648868949",
+    "project_id": "settingsdatabase",
+    "storage_bucket": "settingsdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280648868949:android:767a6371fc433bf2fde0dc",
+        "android_client_info": {
+          "package_name": "com.example.oasis_settings_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280648868949-h7ducvk8dhb226khfn54p7nerolcnh86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmyoPEtANLoUp1_3NLD62iHRR_kodcxMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280648868949-h7ducvk8dhb226khfn54p7nerolcnh86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Oasis_Settings_Beta</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_1st_top_destination">Enter 1st top destination</string>
+    <string name="enter_2nd_top_destination">Enter 2nd Top Destination</string>
+    <string name="enter_3rd_top_destination">Enter 3rd Top Destination</string>
 </resources>
